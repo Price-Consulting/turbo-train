@@ -1,0 +1,4 @@
+1. get networking working - document 
+2. get ssh working with dropbear - document 
+3. get x11 working and starting on boot - document
+4. customize system name and banner - document 
