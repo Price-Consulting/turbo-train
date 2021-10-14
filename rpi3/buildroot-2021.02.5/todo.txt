@@ -1,4 +1,6 @@
 1. get networking working - document 
 2. get ssh working with dropbear - document 
 3. get x11 working and starting on boot - document
-4. customize system name and banner - document 
+4. customize system name and banner - document
+5. make users - https://buildroot.org/downloads/manual/manual.html#makeuser-syntax 
+6. customize users - https://buildroot.org/downloads/manual/manual.html#customize-users 
